@@ -1,3 +1,4 @@
 # Hello_world
 ## Just to update 
-  everyday update will be avaliable until the goal reached
+  Everyday updates will be available until the goal is reached
+  
